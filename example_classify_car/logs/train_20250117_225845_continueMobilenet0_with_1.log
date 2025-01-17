@@ -1,0 +1,16 @@
+2025-01-17 22:58:45,823 - INFO - epochs: 50
+2025-01-17 22:58:45,823 - INFO - train_dir: ./data_1/train
+2025-01-17 22:58:45,823 - INFO - val_dir: ./data_1/val
+2025-01-17 22:58:45,823 - INFO - gpus: 1
+2025-01-17 22:58:45,823 - INFO - batch_size: [32, 1]
+2025-01-17 22:58:45,823 - INFO - resume: ./save_model/model_mobilenet_0.pth
+2025-01-17 22:58:45,823 - INFO - seed: 1024
+2025-01-17 22:58:46,783 - INFO - for resume checkpoint val:
+2025-01-17 22:59:16,905 - INFO - val Loss: 353.7956, val Accuracy: 61.67%
+2025-01-17 22:59:16,905 - INFO - continue training
+2025-01-17 23:01:34,903 - INFO - last best_acc: 61.67, current best_acc: 83.33
+2025-01-17 23:01:34,928 - INFO - Model saved to save_model/model_continueMobilenet0_with_1.pth
+2025-01-17 23:01:34,928 - INFO - Epoch: 1, Train Loss: 0.6597, val Loss: 0.5249, val Accuracy: 83.33%
+2025-01-17 23:03:52,105 - INFO - Epoch: 2, Train Loss: 0.2110, val Loss: 0.7546, val Accuracy: 80.00%
+2025-01-17 23:06:08,965 - INFO - Epoch: 3, Train Loss: 0.1303, val Loss: 0.7884, val Accuracy: 81.67%
+2025-01-17 23:08:28,257 - INFO - Epoch: 4, Train Loss: 0.1434, val Loss: 0.7384, val Accuracy: 80.83%

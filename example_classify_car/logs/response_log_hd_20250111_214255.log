@@ -1,0 +1,49 @@
+2025-01-11 21:42:55,949 - INFO - query: 孙悟空
+2025-01-11 21:42:55,949 - INFO - output: tmp
+2025-01-11 21:42:55,949 - INFO - number: 10
+2025-01-11 21:42:56,443 - INFO - Response Content for URL: https://image.baidu.com/search/acjson?tn=resultjson_com&ipn=r&ct=201326592&cl=2&lm=-1&ie=utf-8&word=孙悟空&pn=0&rn=30
+2025-01-11 21:42:56,443 - INFO - ----------------------------------------
+2025-01-11 21:42:56,445 - INFO - Debug: Processing img fromTitleEnc: 孙悟空简笔画 |马克笔手绘.山高自有客行路,水深自有渡船人. - 抖音
+2025-01-11 21:42:56,531 - INFO - Debug: Processing img fromTitleEnc: 佛在灵山莫远求,灵山只在汝心头,孙悟空说只要你见性志成,念念回首处
+2025-01-11 21:42:56,570 - INFO - Debug: Processing img fromTitleEnc: 小时候看不懂《西游记》现在在看受益颇深!孙悟空
+2025-01-11 21:42:56,664 - INFO - Debug: Processing img fromTitleEnc: 孙悟空(又名美猴王,六小龄童,齐天大圣…) 孙悟空是中国古典小说《西
+2025-01-11 21:42:56,908 - INFO - Time taken to download image 1: 0.24 seconds
+2025-01-11 21:42:56,908 - INFO - running time: 0.96 seconds
+2025-01-11 21:42:56,908 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:01,443 - INFO - Debug: Processing img fromTitleEnc: 天命人集合,快来做一下这款敲可爱的孙悟空!_面糊_模具_来源
+2025-01-11 21:43:01,678 - INFO - Time taken to download image 2: 0.24 seconds
+2025-01-11 21:43:01,678 - INFO - running time: 4.77 seconds
+2025-01-11 21:43:01,678 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:06,146 - INFO - Debug: Processing img fromTitleEnc: #齐天大圣孙悟空 在孙悟空心里,曾经拜师学艺的地方才是家
+2025-01-11 21:43:06,210 - INFO - Debug: Processing img fromTitleEnc: 原著都翻烂了,终于搞清了孙悟空的祖辈是谁,难怪都能让石头怀孕_猪八
+2025-01-11 21:43:06,680 - INFO - Time taken to download image 3: 0.47 seconds
+2025-01-11 21:43:06,680 - INFO - running time: 5.00 seconds
+2025-01-11 21:43:06,681 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:11,308 - INFO - Debug: Processing img fromTitleEnc: 什么齐天大圣 没听说过 你听说过齐天大圣孙悟空吗
+2025-01-11 21:43:11,423 - INFO - Time taken to download image 4: 0.11 seconds
+2025-01-11 21:43:11,423 - INFO - running time: 4.74 seconds
+2025-01-11 21:43:11,423 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:16,294 - INFO - Debug: Processing img fromTitleEnc: 孙悟空有那么多师兄师弟,为何被压五行山时无人来救?_兄弟_猴子_祖师
+2025-01-11 21:43:16,673 - INFO - Time taken to download image 5: 0.38 seconds
+2025-01-11 21:43:16,673 - INFO - running time: 5.25 seconds
+2025-01-11 21:43:16,673 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:19,707 - INFO - Debug: Processing img fromTitleEnc: 孙悟空与菩提老祖
+2025-01-11 21:43:19,857 - INFO - Time taken to download image 6: 0.15 seconds
+2025-01-11 21:43:19,858 - INFO - running time: 3.18 seconds
+2025-01-11 21:43:19,858 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:22,970 - INFO - Debug: Processing img fromTitleEnc: 【孙悟空】小时候没有看懂这一段,长大了才感受到他那个时候有多委屈
+2025-01-11 21:43:23,105 - INFO - Time taken to download image 7: 0.13 seconds
+2025-01-11 21:43:23,106 - INFO - running time: 3.25 seconds
+2025-01-11 21:43:23,106 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:27,638 - INFO - Debug: Processing img fromTitleEnc: 孙悟空才是顶级人间清醒,出口即金句!
+2025-01-11 21:43:27,795 - INFO - Time taken to download image 8: 0.16 seconds
+2025-01-11 21:43:27,795 - INFO - running time: 4.69 seconds
+2025-01-11 21:43:27,795 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:31,978 - INFO - Debug: Processing img fromTitleEnc: 金箍棒有3位主人,孙悟空是实力最弱的一个,其他2位分别是谁?_兵器_如
+2025-01-11 21:43:32,631 - INFO - Time taken to download image 9: 0.65 seconds
+2025-01-11 21:43:32,631 - INFO - running time: 4.84 seconds
+2025-01-11 21:43:32,631 - INFO - --------------------------------------------------------------------------------
+2025-01-11 21:43:37,454 - INFO - Debug: Processing img fromTitleEnc: 『西游记/孙悟空/混剪/不可逆リプレイス』"告诉你那玉帝老儿!他看不
+2025-01-11 21:43:37,607 - INFO - Time taken to download image 10: 0.15 seconds
+2025-01-11 21:43:37,608 - INFO - running time: 4.98 seconds
+2025-01-11 21:43:37,608 - INFO - --------------------------------------------------------------------------------
