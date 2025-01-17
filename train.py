@@ -52,7 +52,7 @@ def get_transforms():
     # Define image transformations
     CenterCrop = transforms.Lambda(lambda image: center_crop(image))
     transform = transforms.Compose([
-        # CenterCrop,
+        CenterCrop,
         transforms.Resize((448, 448)),
         transforms.ToTensor(),
         transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))

@@ -48,7 +48,7 @@ def get_transform():
     # 将自定义的中心裁剪函数和放缩函数包装成transforms
     CenterCrop = transforms.Lambda(lambda image: center_crop(image))
     return transforms.Compose([
-        CenterCrop,  # 中心裁剪为最大的正方形
+        # CenterCrop,  # 中心裁剪为最大的正方形
         transforms.Resize((448, 448)),  # 调整图像大小
         transforms.ToTensor(),  # 转换为Tensor
         transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))  # 归一化
