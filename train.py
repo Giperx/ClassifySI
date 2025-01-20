@@ -124,8 +124,8 @@ def get_data_loaders(train_dir, test_dir, batch_size):
 #     return model, device
 
 def initialize_model(num_gpus, num_classes, resume):
-    if num_gpus > 0: 
-        pynvml.nvmlInit()
+    # if num_gpus > 0: 
+    #     pynvml.nvmlInit()
     
     # 检查 GPU 数量是否足够
     if torch.cuda.device_count() < num_gpus:
@@ -142,6 +142,7 @@ def initialize_model(num_gpus, num_classes, resume):
     # 加载预训练模型（如果有）
     if resume:
         print("Resuming training from checkpoint...")
+        logger.info("Resuming training from checkpoint...")
         checkpoint = torch.load(resume, map_location=device)  # 加载到当前设备
         if any(k.startswith('module.') for k in checkpoint.keys()):
             # 如果 checkpoint 的键名以 'module.' 开头，移除前缀
@@ -177,6 +178,7 @@ def initialize_model(num_gpus, num_classes, resume):
             exit()
 
         print(f"Using GPUs: {free_gpus[:num_gpus]}")
+        logger.info(f"Using GPUs: {free_gpus[:num_gpus]}")
         model = nn.DataParallel(model, device_ids=free_gpus[:num_gpus])
         device = torch.device(f"cuda:{free_gpus[0]}")  # 主设备设置为第一个 GPU
     model.to(device)
