@@ -1,0 +1,73 @@
+2025-01-20 09:27:03,847 - INFO - epochs: 50
+2025-01-20 09:27:03,847 - INFO - train_dir: ./data_45/train
+2025-01-20 09:27:03,847 - INFO - val_dir: ./data_45/val
+2025-01-20 09:27:03,847 - INFO - gpus: 1
+2025-01-20 09:27:03,847 - INFO - batch_size: [32, 1]
+2025-01-20 09:27:03,847 - INFO - resume: 
+2025-01-20 09:27:03,847 - INFO - seed: 1024
+2025-01-20 09:29:38,481 - INFO - last best_acc: 0.00, current best_acc: 80.42
+2025-01-20 09:29:38,508 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:29:38,508 - INFO - Epoch: 1, Train Loss: 0.8851, val Loss: 0.5787, val Accuracy: 80.42%
+2025-01-20 09:32:25,404 - INFO - Epoch: 2, Train Loss: 0.3400, val Loss: 1.5227, val Accuracy: 64.17%
+2025-01-20 09:35:11,663 - INFO - last best_acc: 80.42, current best_acc: 85.42
+2025-01-20 09:35:11,844 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:35:11,844 - INFO - Epoch: 3, Train Loss: 0.2226, val Loss: 0.5598, val Accuracy: 85.42%
+2025-01-20 09:38:04,120 - INFO - Epoch: 4, Train Loss: 0.1374, val Loss: 0.7546, val Accuracy: 82.50%
+2025-01-20 09:40:51,427 - INFO - Epoch: 5, Train Loss: 0.0797, val Loss: 0.6024, val Accuracy: 83.33%
+2025-01-20 09:43:42,232 - INFO - last best_acc: 85.42, current best_acc: 86.25
+2025-01-20 09:43:42,280 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:43:42,280 - INFO - Epoch: 6, Train Loss: 0.0818, val Loss: 0.5071, val Accuracy: 86.25%
+2025-01-20 09:46:29,170 - INFO - last best_acc: 86.25, current best_acc: 86.67
+2025-01-20 09:46:29,243 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:46:29,243 - INFO - Epoch: 7, Train Loss: 0.0865, val Loss: 0.4884, val Accuracy: 86.67%
+2025-01-20 09:49:17,687 - INFO - last best_acc: 86.67, current best_acc: 87.50
+2025-01-20 09:49:17,762 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:49:17,762 - INFO - Epoch: 8, Train Loss: 0.0920, val Loss: 0.5169, val Accuracy: 87.50%
+2025-01-20 09:52:04,524 - INFO - Epoch: 9, Train Loss: 0.0449, val Loss: 0.4924, val Accuracy: 87.50%
+2025-01-20 09:54:50,229 - INFO - last best_acc: 87.50, current best_acc: 91.25
+2025-01-20 09:54:50,294 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 09:54:50,294 - INFO - Epoch: 10, Train Loss: 0.0286, val Loss: 0.3395, val Accuracy: 91.25%
+2025-01-20 09:57:33,149 - INFO - Epoch: 11, Train Loss: 0.0306, val Loss: 0.5971, val Accuracy: 88.33%
+2025-01-20 10:00:23,078 - INFO - Epoch: 12, Train Loss: 0.0342, val Loss: 0.5270, val Accuracy: 88.75%
+2025-01-20 10:03:05,625 - INFO - Epoch: 13, Train Loss: 0.0325, val Loss: 0.4538, val Accuracy: 89.17%
+2025-01-20 10:05:51,021 - INFO - Epoch: 14, Train Loss: 0.0448, val Loss: 0.5787, val Accuracy: 85.83%
+2025-01-20 10:08:36,881 - INFO - Epoch: 15, Train Loss: 0.0227, val Loss: 0.4894, val Accuracy: 88.75%
+2025-01-20 10:11:23,312 - INFO - Epoch: 16, Train Loss: 0.0109, val Loss: 0.4719, val Accuracy: 87.50%
+2025-01-20 10:14:07,804 - INFO - last best_acc: 91.25, current best_acc: 92.92
+2025-01-20 10:14:07,889 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 10:14:07,890 - INFO - Epoch: 17, Train Loss: 0.0204, val Loss: 0.3135, val Accuracy: 92.92%
+2025-01-20 10:16:53,251 - INFO - Epoch: 18, Train Loss: 0.0054, val Loss: 0.3017, val Accuracy: 90.42%
+2025-01-20 10:19:36,781 - INFO - Epoch: 19, Train Loss: 0.0017, val Loss: 0.3072, val Accuracy: 92.50%
+2025-01-20 10:22:21,797 - INFO - Epoch: 20, Train Loss: 0.0034, val Loss: 0.4283, val Accuracy: 91.67%
+2025-01-20 10:25:07,322 - INFO - Epoch: 21, Train Loss: 0.0084, val Loss: 0.5038, val Accuracy: 88.75%
+2025-01-20 10:27:54,897 - INFO - Epoch: 22, Train Loss: 0.0143, val Loss: 0.5019, val Accuracy: 90.00%
+2025-01-20 10:30:43,191 - INFO - Epoch: 23, Train Loss: 0.0102, val Loss: 0.4503, val Accuracy: 91.25%
+2025-01-20 10:33:30,278 - INFO - Epoch: 24, Train Loss: 0.0214, val Loss: 0.4172, val Accuracy: 90.42%
+2025-01-20 10:36:17,192 - INFO - Epoch: 25, Train Loss: 0.0257, val Loss: 0.5036, val Accuracy: 88.75%
+2025-01-20 10:39:05,323 - INFO - Epoch: 26, Train Loss: 0.0289, val Loss: 0.4533, val Accuracy: 91.25%
+2025-01-20 10:41:48,906 - INFO - last best_acc: 92.92, current best_acc: 94.58
+2025-01-20 10:41:48,959 - INFO - Model saved to new/with_centerCrop/w_save_model/model_mobilenet_45.pth
+2025-01-20 10:41:48,960 - INFO - Epoch: 27, Train Loss: 0.0050, val Loss: 0.3207, val Accuracy: 94.58%
+2025-01-20 10:44:33,864 - INFO - Epoch: 28, Train Loss: 0.0069, val Loss: 0.5559, val Accuracy: 89.17%
+2025-01-20 10:47:21,579 - INFO - Epoch: 29, Train Loss: 0.0021, val Loss: 0.5142, val Accuracy: 90.00%
+2025-01-20 10:50:09,068 - INFO - Epoch: 30, Train Loss: 0.0010, val Loss: 0.5135, val Accuracy: 91.25%
+2025-01-20 10:52:56,499 - INFO - Epoch: 31, Train Loss: 0.0023, val Loss: 0.4535, val Accuracy: 90.83%
+2025-01-20 10:55:43,147 - INFO - Epoch: 32, Train Loss: 0.0039, val Loss: 0.6465, val Accuracy: 87.92%
+2025-01-20 10:58:29,565 - INFO - Epoch: 33, Train Loss: 0.0015, val Loss: 0.6111, val Accuracy: 87.92%
+2025-01-20 11:01:20,225 - INFO - Epoch: 34, Train Loss: 0.0007, val Loss: 0.5498, val Accuracy: 89.17%
+2025-01-20 11:04:08,899 - INFO - Epoch: 35, Train Loss: 0.0017, val Loss: 0.5041, val Accuracy: 90.42%
+2025-01-20 11:06:56,764 - INFO - Epoch: 36, Train Loss: 0.0006, val Loss: 0.4800, val Accuracy: 90.00%
+2025-01-20 11:09:45,800 - INFO - Epoch: 37, Train Loss: 0.0008, val Loss: 0.4925, val Accuracy: 90.83%
+2025-01-20 11:12:34,924 - INFO - Epoch: 38, Train Loss: 0.0003, val Loss: 0.5042, val Accuracy: 91.25%
+2025-01-20 11:15:18,822 - INFO - Epoch: 39, Train Loss: 0.0001, val Loss: 0.5128, val Accuracy: 90.83%
+2025-01-20 11:18:03,348 - INFO - Epoch: 40, Train Loss: 0.0001, val Loss: 0.5176, val Accuracy: 90.00%
+2025-01-20 11:20:48,994 - INFO - Epoch: 41, Train Loss: 0.0001, val Loss: 0.4863, val Accuracy: 90.83%
+2025-01-20 11:23:35,887 - INFO - Epoch: 42, Train Loss: 0.0001, val Loss: 0.5237, val Accuracy: 90.83%
+2025-01-20 11:26:22,628 - INFO - Epoch: 43, Train Loss: 0.0002, val Loss: 0.5033, val Accuracy: 90.42%
+2025-01-20 11:29:07,817 - INFO - Epoch: 44, Train Loss: 0.0001, val Loss: 0.4941, val Accuracy: 90.42%
+2025-01-20 11:31:58,771 - INFO - Epoch: 45, Train Loss: 0.0001, val Loss: 0.4933, val Accuracy: 90.00%
+2025-01-20 11:34:46,432 - INFO - Epoch: 46, Train Loss: 0.0002, val Loss: 0.4791, val Accuracy: 90.42%
+2025-01-20 11:37:31,431 - INFO - Epoch: 47, Train Loss: 0.0001, val Loss: 0.4704, val Accuracy: 90.42%
+2025-01-20 11:40:18,286 - INFO - Epoch: 48, Train Loss: 0.0001, val Loss: 0.4766, val Accuracy: 90.00%
+2025-01-20 11:42:59,472 - INFO - Epoch: 49, Train Loss: 0.0001, val Loss: 0.4735, val Accuracy: 90.42%
+2025-01-20 11:45:42,151 - INFO - Epoch: 50, Train Loss: 0.0001, val Loss: 0.4912, val Accuracy: 90.00%
