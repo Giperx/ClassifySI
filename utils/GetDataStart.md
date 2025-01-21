@@ -50,8 +50,7 @@
     - -tr_times --augment_times_train，训练集增强次数，default=3
     - -val_times --augment_times_val，验证集增强次数，default=1
     - -test_times --augment_times_test，测试集增强次数，default=0
-
-  - -p --prob_aa，使用 AutoAugment 策略增强的概率，default=0.45
+    - -p --prob_aa，使用 AutoAugment 策略增强的概率，default=0.45
 
 - 如果初始数据集过大不想增强扩充，可设置三个增强次数参数为 0
 - 划分后文件结构：
