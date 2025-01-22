@@ -68,7 +68,7 @@ class Classifier(nn.Module):
         # 定义前向传播
 ```
 
-**注：** 在训练阶段，`resize`为 $ 448 \times 448 $ 。
+**注：** 在训练阶段，`resize`为 $` 448 \times 448 `$ 。
 
 - 如需自定义最后的图片大小，需在[train.py](https://github.com/Giperx/ClassifySI/blob/11392bd53e3ad854d81098183a4249d1247c1321/train.py#L56)和[test.py](https://github.com/Giperx/ClassifySI/blob/11392bd53e3ad854d81098183a4249d1247c1321/test.py#L52)中修改`get_transforms()`函数的`transforms.Resize((448, 448))`。
 
